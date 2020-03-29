@@ -1,0 +1,14 @@
+F:\documents\genetic_algorithms\OptimalMenuSelection\OptimalMenuSelection\bin\Debug\OptimalMenuSelection.exe.config
+F:\documents\genetic_algorithms\OptimalMenuSelection\OptimalMenuSelection\bin\Debug\OptimalMenuSelection.exe
+F:\documents\genetic_algorithms\OptimalMenuSelection\OptimalMenuSelection\bin\Debug\OptimalMenuSelection.pdb
+F:\documents\genetic_algorithms\OptimalMenuSelection\OptimalMenuSelection\obj\Debug\OptimalMenuSelection.csprojAssemblyReference.cache
+F:\documents\genetic_algorithms\OptimalMenuSelection\OptimalMenuSelection\obj\Debug\OptimalMenuSelection.csproj.CoreCompileInputs.cache
+F:\documents\genetic_algorithms\OptimalMenuSelection\OptimalMenuSelection\obj\Debug\OptimalMenuSelection.exe
+F:\documents\genetic_algorithms\OptimalMenuSelection\OptimalMenuSelection\obj\Debug\OptimalMenuSelection.pdb
+F:\documents\genetic_algorithms\OptimalMenuSelection - Copy (2)\OptimalMenuSelection\obj\Debug\OptimalMenuSelection.csprojAssemblyReference.cache
+F:\documents\genetic_algorithms\OptimalMenuSelection - Copy (2)\OptimalMenuSelection\obj\Debug\OptimalMenuSelection.csproj.CoreCompileInputs.cache
+F:\documents\genetic_algorithms\OptimalMenuSelection - Copy (2)\OptimalMenuSelection\obj\Debug\OptimalMenuSelection.exe
+F:\documents\genetic_algorithms\OptimalMenuSelection - Copy (2)\OptimalMenuSelection\obj\Debug\OptimalMenuSelection.pdb
+F:\documents\genetic_algorithms\OptimalMenuSelection - Copy (2)\OptimalMenuSelection\bin\Debug\OptimalMenuSelection.exe.config
+F:\documents\genetic_algorithms\OptimalMenuSelection - Copy (2)\OptimalMenuSelection\bin\Debug\OptimalMenuSelection.exe
+F:\documents\genetic_algorithms\OptimalMenuSelection - Copy (2)\OptimalMenuSelection\bin\Debug\OptimalMenuSelection.pdb
